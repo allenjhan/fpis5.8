@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/allen/rep/fpis5.8/src/main/scala/StreamConstantTest.scala:32:39: ';' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    case Cons(h, t) if n == 0 => Empty)[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
